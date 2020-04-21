@@ -1,10 +1,7 @@
-resolver: lts-15.0
+resolver: nightly-2020-04-21
 
 packages:
 - .
-
-extra-deps:
-- pretty-terminal-0.1.0.0@sha256:e9135d86ebb2a8e3aaf5a79088de4628dbd49988388e0fbfc26c5ecb3c399ad9,1638
 
 nix:
   packages:
